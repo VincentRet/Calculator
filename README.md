@@ -1,1 +1,1 @@
-Simple Calculator App Built With Java
+Simple desktop calculator application built in Java
